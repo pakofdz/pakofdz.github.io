@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2699d35.css",
+    "main.js": "/static/js/main.031173ab.js",
+    "static/js/787.ae0f345e.chunk.js": "/static/js/787.ae0f345e.chunk.js",
+    "static/media/SP.png": "/static/media/SP.220f6c3488f3c0d6634f.png",
+    "static/media/CL.png": "/static/media/CL.0df01d5a7310fb6064b2.png",
+    "static/media/paco2.jpg": "/static/media/paco2.5ab592a447945c9a6d32.jpg",
+    "static/media/banner 2.png": "/static/media/banner 2.bf735b0080d7fb668ef2.png",
+    "static/media/banner 1.png": "/static/media/banner 1.2ea865d2291a92404f77.png",
+    "static/media/sam.jpg": "/static/media/sam.57be6dbac22623d33c92.jpg",
+    "static/media/banner 3.png": "/static/media/banner 3.77c2fbec3c649140ee66.png",
+    "static/media/sergio.jpg": "/static/media/sergio.c01bbb14b0c36c6b8b35.jpg",
+    "static/media/cris.jpg": "/static/media/cris.a607a0fea10b9bc70ae3.jpg",
+    "static/media/F1.jpg": "/static/media/F1.0cf30560be4a401026d3.jpg",
+    "static/media/F3.jpg": "/static/media/F3.4c7152f7014947249963.jpg",
+    "static/media/F2.jpg": "/static/media/F2.e277b1d1b15b0d99fe60.jpg",
+    "static/media/jerarquia.png": "/static/media/jerarquia.7ecb5f3451813f3705b2.png",
+    "static/media/formo.jpeg": "/static/media/formo.1443a3a8de2cf1a6c23b.jpeg",
+    "index.html": "/index.html",
+    "main.b2699d35.css.map": "/static/css/main.b2699d35.css.map",
+    "main.031173ab.js.map": "/static/js/main.031173ab.js.map",
+    "787.ae0f345e.chunk.js.map": "/static/js/787.ae0f345e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2699d35.css",
+    "static/js/main.031173ab.js"
+  ]
+}
